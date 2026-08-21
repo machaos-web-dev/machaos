@@ -83,7 +83,7 @@ if ('IntersectionObserver' in window && revealEls.length) {
 // formspree.io (Dashboard -> + New Form -> copy the "https://formspree.io/f/xxxxxxxx" URL).
 // Until you do, entries save to this browser only (not shared/visible anywhere).
 // ---------------------------------------------------------------
-const WAITLIST_ENDPOINT = "https://formspree.io/f/xojgpvpb";
+const WAITLIST_ENDPOINT = "https://formspree.io/f/xqpznwdy";
 
 const form = document.getElementById('waitlist-form');
 const btn = document.getElementById('join-btn');
